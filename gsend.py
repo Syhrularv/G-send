@@ -3,6 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 ###########################################################
+#pake pake aja kentod gausah di recode juga ea babyk
+###########################################################
 GR='\033[37m'
 DG='\033[90m'
 R='\033[91m'
